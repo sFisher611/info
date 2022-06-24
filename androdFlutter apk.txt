@@ -61,8 +61,7 @@ flutter build apk --analyze-size --target-platform=android-arm64 //size info
   //   // TODO: implement dispose
   //   super.dispose();
   // }
-fifa420111
-TBNPY7pK
+
 
 SingleChildScrollView
 
